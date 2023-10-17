@@ -1,0 +1,135 @@
+.nav{
+    width: 1440px;
+    height: 1000px;
+    background-image: url(background.jpg);
+    background-color: black;
+}
+.logo{
+    width: 149px;
+    height: 149px;
+    border-radius: 15px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.nav-link{
+    float: right;
+
+    list-style: none;
+    text-align: inline;
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 110px;
+    margin-right: 120px;
+}
+.nav-link a {
+    text-decoration: none;
+    color: #ffff;
+    text-transform: uppercase;
+}
+.box1{
+    width: 1440px;
+    height: 625px;
+    background-color: #CCCCCC;
+    margin-top: 30px;
+    
+   ;
+}
+.most{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 50px;
+    width: 300px;
+    padding-left: 575px;
+    padding-top: 10px;
+}
+.pizza{
+    width: 585px;
+    height: 475px;
+    border-radius: 15px;
+    right: 750px;
+    margin-left: 50px;
+    margin-top: 50px;
+ 
+   
+}
+.pizza-t{
+    color: rgb(0, 0, 0);
+    float: right;
+    font-size: 30px;
+    width: 515px;
+margin-right: 155px;
+text-align: center;
+padding-top: 118px;
+padding-right: 0%;
+    height: 275px;
+    right: 100px;
+   
+}
+.box2{
+    width: 1440px;
+    height: 731px;
+    background-color: #ffff;
+    margin-top: 30px;
+}
+.heading1{
+    text-align: center;
+    padding-top: 25px;
+}
+.heading2{
+    text-align: left;
+    padding-left: 5px;
+    color: #0802A3;
+}
+.heading3{
+    text-align: left;
+    padding-left: 5px;
+    color: #0802A3;
+}
+.heading4{
+    text-align: left;
+    padding-left: 5px;
+    color: #0802A3; 
+}
+.border{
+    border: 20px solid;
+    border-color: black;
+    border-width: 5px;
+}
+.para1{
+    padding-left: 5px ;
+}
+.para2{
+    padding-left: 5px;
+}
+.para3{
+    padding-left: 5px;
+}
+.heading5{
+    text-align: center;
+    font-weight: bold;
+}
+.heading6{
+    text-align: left;
+    padding-left: 5px;
+    color: #0802A3;   
+}
+.heading7{
+    text-align: left;
+    padding-left: 5px;
+    color: #0802A3;   
+}
+.border2{
+    border: 20px solid;
+    border-color: black;
+    border-width: 5px;
+}
+.colorbox{
+width: 1440px;
+height: 1750px;
+background-color: #f1f0e8;
+}
+.image1{
+    margin-bottom: 10px;
+}
